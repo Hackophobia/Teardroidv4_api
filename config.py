@@ -1,1 +1,1 @@
-USER_AGENT = "bighack"
+USER_AGENT = "stow"
