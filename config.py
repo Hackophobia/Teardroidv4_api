@@ -1,1 +1,1 @@
-USER_AGENT = "stow"
+USER_AGENT = "japan"
